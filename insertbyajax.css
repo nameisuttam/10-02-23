@@ -1,0 +1,19 @@
+table {
+    border: 1px solid;
+  } 
+  table,th, td {
+    padding: 15px;
+    text-align: center;
+  }
+  button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
